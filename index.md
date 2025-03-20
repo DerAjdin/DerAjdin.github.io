@@ -9,3 +9,6 @@ Willkommen auf meiner einfachen Markdown-Seite.
 3. Auflistung 3
 
 **Viel Spaß!** 😊
+
+Hier gehts Du zur Einkaufsliste: 
+[Einkaufsliste](details.md)
