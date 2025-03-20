@@ -1,0 +1,3 @@
+remote theme: https://github.com/eneukircher/jekyll-rtd-theme
+remote_index:
+  with_frontmatter: true
