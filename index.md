@@ -1,6 +1,6 @@
-# Merhaba
+# Merhaba - Willkommen
 
-## Bujrum, dobro nam dosao! 
+## Meine erste Markdown-Seite
 
 Willkommen auf meiner einfachen Markdown-Seite.
 
@@ -10,5 +10,5 @@ Willkommen auf meiner einfachen Markdown-Seite.
 
 **Viel Spaß!** 😊
 
-Hier gehts Du zur Einkaufsliste: 
-[Einkaufsliste](details.md)
+Hier gehts Du zur Einkaufsliste:
+[Einkaufsliste](details.html)
