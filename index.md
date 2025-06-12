@@ -12,6 +12,6 @@ Willkommen auf meiner einfachen Markdown-Seite.
 2. Auflistung 2
 3. Auflistung 3
 
-**Viel Spaß!** 😊
+**Viel Spaß!**
 
 Hier geht's zur Einkaufsliste: [Einkaufsliste](details.md)
