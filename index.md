@@ -14,4 +14,4 @@ Willkommen auf meiner einfachen Markdown-Seite.
 
 **Viel Spaß!**
 
-Hier geht's zur Einkaufsliste: [Einkaufsliste](details.md)
+Hier geht's zur Einkaufsliste: [Einkaufsliste](details.html)
