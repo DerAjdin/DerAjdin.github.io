@@ -11,4 +11,4 @@ Willkommen auf meiner einfachen Markdown-Seite.
 **Viel Spaß!** 😊
 
 Hier gehts Du zur Einkaufsliste:
-[Einkaufsliste](details.html)
+[Einkaufsliste](details)
