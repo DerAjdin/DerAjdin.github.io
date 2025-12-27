@@ -37,13 +37,25 @@ pre code {
 .highlight .n,    /* Names */
 .highlight .nv,   /* Variables */
 .highlight .s,    /* Strings */
-.highlight .s2 {  /* Double quoted strings */
+.highlight .s2    /* Double quoted strings */
+.highlight .nb,   /* Built-ins */
+.highlight .nt,   /* Tags */
+.highlight .na,   /* Attributes */
+.highlight .err,  /* Errors */
+.highlight .p,    /* Punctuation */
+.highlight .w {   /* Whitespace */
   color: #61afef !important;  
 }
 
 .highlight .c,    /* Comments */
 .highlight .c1 {  /* Single-line comments */
   color: #7f848e !important;  
+}
+
+.highlight .m,    /* Numbers */
+.highlight .mf,   /* Floats */
+.highlight .mi {  /* Integers */
+  color: #61afef !important;
 }
 
 a {
