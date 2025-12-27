@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<nav style="background: #2a2a2a; padding: 1rem; border-radius: 8px; margin-bottom: 2rem;">
+  <a href="index.html" style="margin-right: 1rem; color: #3498db;">🏠 Home</a>
+  <a href="projects.html" style="color: #3498db;">💼 Projekte</a>
+</nav>
+
 # Selam und Hallo, ich bin Ajdin!
 
 Informatik-Student an der HTL Bulme Graz im Tageskolleg, aktuell in der 3AKIFT. Ich lerne Backend-Systeme zu entwicklen, arbeite mit APIs und interessiere mich für Software-Architektur, Netzwerktechnik, DevOps und Datenbanken.

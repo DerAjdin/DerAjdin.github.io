@@ -3,6 +3,11 @@ layout: default
 title: Projekte
 ---
 
+<nav style="background: #2a2a2a; padding: 1rem; border-radius: 8px; margin-bottom: 2rem;">
+  <a href="index.html" style="margin-right: 1rem; color: #3498db;">🏠 Home</a>
+  <a href="projects.html" style="color: #3498db;">💼 Projekte</a>
+</nav>
+
 # Projekte
 
 Hier findest du eine Übersicht meiner Projekte und Arbeiten.
