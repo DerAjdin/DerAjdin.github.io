@@ -17,6 +17,12 @@ pre {
   border-left: 4px solid #3498db;
 }
 
+pre code {
+  background-color: transparent !important;
+  color: #abb2bf !important;
+  font-family: 'Courier New', monospace;
+}
+
 .highlight {
   background-color: #1e1e1e !important;
 }
@@ -24,6 +30,20 @@ pre {
 .highlight pre {
   background-color: #1e1e1e !important;
   color: #abb2bf !important;
+}
+
+.highlight .o,    /* Operators */
+.highlight .k,    /* Keywords */
+.highlight .n,    /* Names */
+.highlight .nv,   /* Variables */
+.highlight .s,    /* Strings */
+.highlight .s2 {  /* Double quoted strings */
+  color: #61afef !important;  
+}
+
+.highlight .c,    /* Comments */
+.highlight .c1 {  /* Single-line comments */
+  color: #7f848e !important;  
 }
 
 a {
